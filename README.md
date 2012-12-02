@@ -4,7 +4,8 @@ Instantaneous
 **A Simple Responsive Istagram Gallery Microsite Template.**
 
 Created by [@rcougil](http://twitter.com/rcougil) and [@arti360](http://twitter.com/arti360)
-CSS list effect: [Liffect Generator](http://http://ademilter.com/lab/liffect/) 
+
+CSS list effect: [Liffect Generator](http://http://ademilter.com/lab/liffect/)
 
 ---
 
