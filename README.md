@@ -1,7 +1,7 @@
 Instantaneous
 =============
 
-**A Simple Istagram Gallery Microsite template.**
+**A Simple Responsive Istagram Gallery Microsite Template.**
 
 Created by [@rcougil](http://twitter.com/rcougil) and [@arti360](http://twitter.com/arti360)
 
